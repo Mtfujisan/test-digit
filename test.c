@@ -1,5 +1,3 @@
-test-digit
-==========
 
 #include<stdbool.h>
 #include<stdio.h>
